@@ -17,7 +17,7 @@ class DataDesa
      * @ORM\GeneratedValue
      * @ORM\Column(type="integer")
      */
-    private $id;
+    private $id_desa;
 
     /**
      * @ORM\Column(type="string", length=255, nullable=true)
